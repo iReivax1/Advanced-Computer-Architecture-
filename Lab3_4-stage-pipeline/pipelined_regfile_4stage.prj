@@ -1,0 +1,8 @@
+verilog work "C:/Users/HTANANDA001/Downloads/lab3/lab3_codes/Four stage pipeline codes/regfile.v"
+verilog work "C:/Users/HTANANDA001/Downloads/lab3/lab3_codes/Four stage pipeline codes/PC.v"
+verilog work "C:/Users/HTANANDA001/Downloads/lab3/lab3_codes/Four stage pipeline codes/memory.v"
+verilog work "C:/Users/HTANANDA001/Downloads/lab3/lab3_codes/Four stage pipeline codes/ID_EXEstage.v"
+verilog work "C:/Users/HTANANDA001/Downloads/lab3/lab3_codes/Four stage pipeline codes/EXE_WBstage.v"
+verilog work "C:/Users/HTANANDA001/Downloads/lab3/lab3_codes/Four stage pipeline codes/control.v"
+verilog work "C:/Users/HTANANDA001/Downloads/lab3/lab3_codes/Four stage pipeline codes/alu.v"
+verilog work "C:/Users/HTANANDA001/Downloads/lab3/lab3_codes/Four stage pipeline codes/pipelined_regfile_4stage.v"

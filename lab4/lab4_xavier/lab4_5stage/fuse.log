@@ -1,0 +1,35 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/lab4_xavier/lab4_5stage/test_test_isim_beh.exe" -prj "E:/lab4_xavier/lab4_5stage/test_test_beh.prj" "work.test_test" "work.glbl" 
+ISim P.49d (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/lab4_xavier/lab4_5stage/regfile.v" into library work
+Analyzing Verilog file "E:/lab4_xavier/lab4_5stage/PC.v" into library work
+Analyzing Verilog file "E:/lab4_xavier/lab4_5stage/MEM_WBstage.v" into library work
+Analyzing Verilog file "E:/lab4_xavier/lab4_5stage/memory.v" into library work
+Analyzing Verilog file "E:/lab4_xavier/lab4_5stage/ID_EXEstage.v" into library work
+Analyzing Verilog file "E:/lab4_xavier/lab4_5stage/EXE_MEMstage.v" into library work
+Analyzing Verilog file "E:/lab4_xavier/lab4_5stage/control.v" into library work
+Analyzing Verilog file "E:/lab4_xavier/lab4_5stage/alu.v" into library work
+Analyzing Verilog file "E:/lab4_xavier/lab4_5stage/pipelined_regfile_5stage.v" into library work
+Analyzing Verilog file "E:/lab4_xavier/lab4_5stage/test_test.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.4/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module PC1
+Compiling module memory
+Compiling module control
+Compiling module regfile
+Compiling module ID_EXE_stage
+Compiling module alu
+Compiling module EXE_MEM_stage
+Compiling module MEM_WB_stage
+Compiling module pipelined_regfile_5stage
+Compiling module test_test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 11 Verilog Units
+Built simulation executable E:/lab4_xavier/lab4_5stage/test_test_isim_beh.exe
+Fuse Memory Usage: 29984 KB
+Fuse CPU Usage: 514 ms
